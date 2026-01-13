@@ -1,0 +1,5 @@
+{
+  "name": "EduScript: K-12 Classroom Simulator",
+  "description": "Generates realistic 30-minute K-12 classroom transcripts based on grade, subject, and learning standards without speaker labels.",
+  "requestFramePermissions": []
+}
